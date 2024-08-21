@@ -6,9 +6,11 @@
 
 * Si la carpeta existe en el google drive guarda el archivo en la primera coincidencia que encuentre (en caso de que existan 2 carpetas con ese nombre).
 * Asi es una peticion de prueba ![READMEimg.png](READMEimg.png)
-* La documentacion está en http://localhost:puerto/docs entrando a la 192.168.9.129 o 0.188
+* La documentacion está en http://localhost:puerto/docs entrando a la 192.168.9.129 o 54.130
 * 
 # 2. Importante
+* Los archivos se guardan en la cuenta de basquetnro6@gmail.com
+* La hora de la computadora en donde va a correr el proyecto debe estar correcta ya que si esta desfasada por algunos minutos ya no funciona la carga de archivos a google drive.
 * Debe correr en un servidor local dentro de la empresa.
 * Debe tener acceso a internet para poder subir el archivo a google drive.
 * Debe existir el archivo credentials.json en la carpeta /files/credentials/ (ver más abajo como obtener el archivo)
